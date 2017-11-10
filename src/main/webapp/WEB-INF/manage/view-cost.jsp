@@ -55,7 +55,7 @@
 					<!-- 输入下拉单一行 -->
 					<div
 						class="col-lg-5 col-lg-offset-3 col-md-5 col-md-offset-2 col-xs-5 col-xs-offset-2 left">
-						<div class="col-lg-3 col-md-3  col-xs-3">
+						<div class="col-lg-2 col-md-2  col-xs-2">
 							<span>工会：</span>
 						</div>
 						<div class="col-lg-8 col-md-8  col-xs-8">
@@ -68,7 +68,7 @@
 						</div>
 					</div>
 					<div class="col-lg-5 col-md-5  col-xs-5 list">
-						<div class="col-lg-3 col-md-3  col-xs-3">
+						<div class="col-lg-2 col-md-2  col-xs-2">
 							<span>条目：</span>
 						</div>
 						<div class="col-lg-8 col-md-8  col-xs-8">

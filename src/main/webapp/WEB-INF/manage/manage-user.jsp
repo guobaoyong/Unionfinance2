@@ -58,7 +58,7 @@
       <tr class="two">
          <th>序号</th>
          <th>账号</th>
-         <th>密码</th>
+         <!-- <th>密码</th> -->
          <th>身份</th>
          <th>姓名</th>
          <th>手机</th>
@@ -71,7 +71,7 @@
 			<tr>
 				<td>${status.index + 1}</td>
 				<td>${pageCut.account}</td>
-				<td>${pageCut.password}</td>
+				<%-- <td>${pageCut.password}</td> --%>
 				<td>
 					<c:if test="${pageCut.identity eq 'manage' }">拨款管理</c:if>
 					<c:if test="${pageCut.identity eq 'cost' }">支出管理</c:if>

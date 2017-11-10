@@ -1,5 +1,6 @@
 package com.Unionfinance2.action.manage;
 
+import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -51,7 +52,10 @@ public class IncomeManageAction extends BaseAction{
 		for (Income income : in) {
 			sum+=income.getIn_money();
 		}
-		request.put("sum", sum);
+		//保留两位小数
+		BigDecimal b = new BigDecimal(sum);
+		double f1 = b.setScale(2,BigDecimal.ROUND_HALF_UP).doubleValue();
+		request.put("sum", f1);
 		request.put("adss", "execute");
 		return SUCCESS;
 	}
@@ -137,12 +141,18 @@ public class IncomeManageAction extends BaseAction{
 		for(int i = 0;i<in.getData().size();i++){
 			presum += in.getData().get(i).getIn_money();
 		}
-		request.put("presum",presum);  //查出当前页面的元素金额总和
+		//保留两位小数
+		BigDecimal b = new BigDecimal(presum);
+		double f1 = b.setScale(2,BigDecimal.ROUND_HALF_UP).doubleValue();
+		request.put("presum",f1);  //查出当前页面的元素金额总和
 		double sum = 0;
 		for (Income income : mo) {
 			sum+=income.getIn_money();
 		}
-		request.put("sum",sum);  //查询本次查询总的拨款金额
+		//保留两位小数
+		BigDecimal b2 = new BigDecimal(sum);
+		double f2 = b2.setScale(2,BigDecimal.ROUND_HALF_UP).doubleValue();
+		request.put("sum",f2);  //查询本次查询总的拨款金额
 		if(in.getData().size()==0){
 			String mark="没有你搜索的信息";
 			request.put("managerMsg", mark);

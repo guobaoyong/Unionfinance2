@@ -1,5 +1,6 @@
 package com.Unionfinance2.action.manage;
 
+import java.math.BigDecimal;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -52,7 +53,10 @@ public class CostManageAction extends BaseAction{
 				for (Cost cost : in) {
 					sum+=cost.getCo_money();
 				}
-		request.put("sum", sum);
+				//保留两位小数
+				BigDecimal b = new BigDecimal(sum);
+				double f1 = b.setScale(2,BigDecimal.ROUND_HALF_UP).doubleValue();
+		request.put("sum", f1);
 		request.put("adss", "execute");
 		return SUCCESS;
 	}
@@ -158,12 +162,18 @@ public class CostManageAction extends BaseAction{
 		for(int i = 0;i<co.getData().size();i++){
 			presum += co.getData().get(i).getCo_money();
 		}
-		request.put("presum",presum);  //查出当前页面的元素金额总和
+		//保留两位小数
+		BigDecimal b2 = new BigDecimal(presum);
+		double f2 = b2.setScale(2,BigDecimal.ROUND_HALF_UP).doubleValue();
+		request.put("presum",f2);  //查出当前页面的元素金额总和
 		double sum = 0;
 		for (Cost cost : mo) {
 			sum+=cost.getCo_money();
 		}
-		request.put("sum",sum);  //查询本次查询总的支出金额
+		//保留两位小数
+		BigDecimal b = new BigDecimal(sum);
+		double f1 = b.setScale(2,BigDecimal.ROUND_HALF_UP).doubleValue();
+		request.put("sum",f1);  //查询本次查询总的支出金额
 		if(co.getData().size()==0){
 			String mark="没有你搜索的信息";
 			request.put("managerMsg", mark);
