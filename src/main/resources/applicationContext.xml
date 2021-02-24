@@ -25,9 +25,9 @@
         	<!-- 指定数据库的url -->
         	<property name="url" value="${url}"></property>
         	<!-- 用户名 -->
-        	<property name="username" value="root"></property>
+        	<property name="username" value="{user}"></property>
         	<!-- 密码 -->
-        	<property name="password" value="root"></property>
+        	<property name="password" value="{password}"></property>
         </bean>
         
         <!-- 定义hibernate的SessionFactory -->
