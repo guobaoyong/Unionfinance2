@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2057854c-afc5-4d83-a35b-9b6f2fccfaa0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.hibernate.eclipse.console.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/logs/Unionfinance2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/action/CodeAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/action/LoginAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/action/manage/ChangeAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/action/manage/CostManageAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/action/manage/EntryManageAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/action/manage/IncomeManageAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/action/manage/UserManagerAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/action/manage/ViewBalanceAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/action/ordinary/CostManageAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/action/ordinary/IncomeManageAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/base/BaseAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/base/BaseDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/dao/BalanceDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/dao/CostDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/dao/EntryDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/dao/IncomeDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/entity/Balance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/entity/Balance.hbm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/entity/BalanceId.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/entity/Cost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/entity/Entry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/entity/Income.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/filter/AllFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/filter/LoginFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/listener/AppStartListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/service/BalanceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/service/CostService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/service/EntryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/service/IncomeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/util/ExportUtilCost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/util/ExportUtilIncome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/util/Garbled.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/Unionfinance2/util/PageCut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/resources/cost-struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/resources/hibernate.reveng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/resources/manage-struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/resources/ordinary-struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/cost/addcost.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/cost/manage-cost.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/cost/updatecost.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/cost/view-income.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/manage/addincome.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/manage/adduser.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/manage/logoff.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/manage/manage-entry.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/manage/manage-income.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/manage/manage-user.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/manage/toupdatemyself.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/manage/updatecost.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/manage/updateincome.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/manage/updatemyself.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/manage/updateuser.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/manage/view-cost.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/manage/viewbalance.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/ordinary/updatemyself.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/ordinary/viewbalance.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/ordinary/viewcost.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/ordinary/viewincome.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/head.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/index-one.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/layui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/ma-four.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/manage-income.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/resume.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/smoothness/images/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/smoothness/images/animated-overlay.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/smoothness/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/smoothness/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/smoothness/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/smoothness/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/smoothness/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/smoothness/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/smoothness/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/smoothness/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/smoothness/jquery.ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/table-five.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/table-four.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/test-3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/viewbalance.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/frames/head.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/frames/index-cost.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/frames/index-ordinary.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/frames/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/frames/menu-cost.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/frames/menu-ordinary.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/frames/menu.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/1504A52DFAB95A767B358BE0B9D3B5FD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/2016070603.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/2016070603.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/2016070607.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/IMG_9599.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/bian.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/but.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/calendar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/dotted.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/header-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/header_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/lajitong.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/logo-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/look.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/select_xl01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/select_xl02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/shoukuan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/timg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/took.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/ui_header_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/ui_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/windows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/yonghuzengjia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/zhulou.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/zhulou.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/js/datetime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/js/jquery-2.1.4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/js/jquery.ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/js/manage-entry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/classes/cost-struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/classes/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/classes/hibernate.reveng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/classes/manage-struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/classes/ordinary-struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/classes/struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/m2e-wtp/web-resources/META-INF/maven/com.bat/Unionfinance2/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/m2e-wtp/web-resources/META-INF/maven/com.bat/Unionfinance2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/logs/access_log.2017-10-24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/cost/addcost_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/cost/manage_002dcost_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/cost/updatecost_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/cost/view_002dincome_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/manage/addincome_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/manage/logoff_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/manage/manage_002dentry_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/manage/updatemyself_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/manage/view_002dcost_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/manage/viewbalance_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/ordinary/updatemyself_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/ordinary/viewbalance_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/ordinary/viewcost_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/ordinary/viewincome_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/frames/head_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/frames/index_002dcost_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/frames/index_002dordinary_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/frames/index_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/frames/menu_002dcost_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/frames/menu_002dordinary_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/frames/menu_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/index_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/Unionfinance2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/action/CodeAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/action/LoginAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/action/manage/ChangeAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/action/manage/CostManageAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/action/manage/EntryManageAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/action/manage/IncomeManageAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/action/manage/UserManagerAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/action/manage/ViewBalanceAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/action/ordinary/CostManageAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/action/ordinary/IncomeManageAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/base/BaseAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/base/BaseDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/dao/BalanceDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/dao/CostDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/dao/EntryDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/dao/IncomeDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/entity/Balance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/entity/BalanceId.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/entity/Cost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/entity/Entry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/entity/Income.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/filter/AllFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/filter/LoginFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/listener/AppStartListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/service/BalanceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/service/CostService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/service/EntryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/service/IncomeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/util/ExportUtilBalance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/util/ExportUtilCost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/util/ExportUtilIncome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/util/Garbled.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Unionfinance2/util/PageCut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cost-struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.reveng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/manage-struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ordinary-struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.bat/Unionfinance2/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.bat/Unionfinance2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/manage/addincome_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/manage/addincome_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/manage/manage_002dincome_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/manage/manage_002dincome_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/manage/view_002dcost_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/WEB_002dINF/manage/view_002dcost_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/frames/head_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/frames/head_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/frames/index_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/frames/index_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/frames/menu_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/frames/menu_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/index_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/Unionfinance2/org/apache/jsp/index_jsp.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2jPtIOaPy1xXtB83as3a6ANvPCx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2057854c-afc5-4d83-a35b-9b6f2fccfaa0" name="Changes" comment="" />
+      <created>1721300459491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721300459491</updated>
+      <workItem from="1721300462464" duration="308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
